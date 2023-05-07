@@ -1,1 +1,2 @@
 # Algorithm-Design-Analysis
+Design and analysis of correct and efficient algorithms and related discrete mathematics concepts and data structures. Topics include: sets, function relations; graph theory; graph algorithms (graph traversals, topological sort, minimum spanning trees, shortest paths); balanced trees and advanced data structures; algorithmic design strategies (dynamic programming, greedy algorithms, divide-and-conquer, backtracking); introduction to NP completeness and approximation algorithms; introduction to parallel algorithms.
